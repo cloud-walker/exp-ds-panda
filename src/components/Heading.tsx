@@ -5,5 +5,5 @@ export const Heading = forwardRef<
   HTMLHeadingElement,
   HTMLAttributes<HTMLHeadingElement>
 >(function Heading() {
-  return <h1 className={css({color: 'primary'})}>Heading</h1>
+  return <h1 className={css({bg: 'asd'})}>Heading</h1>
 })
