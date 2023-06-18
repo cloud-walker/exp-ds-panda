@@ -1,4 +1,12 @@
 {
   "name": "@cloudwalker/exp-ds-panda",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@pandacss/dev": "^0.3.1",
+    "@types/react": "^18.2.12",
+    "@types/react-dom": "^18.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
